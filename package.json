@@ -1,0 +1,22 @@
+{
+  "name": "web-package",
+  "version": "1.0.0",
+  "description": "contains packages for the web page",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-gh-pages": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpage",
+    "d3js"
+  ],
+  "author": "Puja Agarwal",
+  "license": "ISC"
+}
