@@ -4,11 +4,20 @@
   "description": "contains packages for the web page",
   "main": "index.html",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "jshint-stylish": "^2.2.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-gh-pages": "^0.5.4"
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-jshint": "^2.0.4",
+    "jshint": "^2.9.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
